@@ -1,0 +1,43 @@
+.p1{
+    background: red;
+    color : blanchedalmond;
+    text-align: center;
+    width: 100px;
+    height: 100px;
+    font-size: 20px;
+}
+
+body{
+    background: green;
+}
+
+.caja1 {
+    background: yellow;
+}
+
+.caja2 {
+    font-size: 20px;
+}
+
+div:hover{
+    color: greenyellow;
+    font-size: 35px;
+}
+
+div{
+    background: white !important;
+}
+
+.btnEnviar{
+    font-size: 25px;
+    background: blue;
+}
+
+.btnEnviar:hover{
+    font-size: 35px;
+    background: rebeccapurple;
+}
+
+.lista1:hover{
+    background: whitesmoke;
+}
